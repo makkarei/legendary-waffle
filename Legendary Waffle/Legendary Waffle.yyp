@@ -34,6 +34,10 @@
   },
   "name":"Legendary Waffle",
   "resources":[
+    {"id":{"name":"obj_butter_square","path":"objects/obj_butter_square/obj_butter_square.yy",},},
+    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
+    {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
+    {"id":{"name":"obj_syrup","path":"objects/obj_syrup/obj_syrup.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",

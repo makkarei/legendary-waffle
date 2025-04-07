@@ -35,6 +35,10 @@
   "name":"Legendary Waffle",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_butter_square","path":"sprites/spr_butter_square/spr_butter_square.yy",},},
+    {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
+    {"id":{"name":"spr_hero","path":"sprites/spr_hero/spr_hero.yy",},},
+    {"id":{"name":"spr_syrup","path":"sprites/spr_syrup/spr_syrup.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
